@@ -1,0 +1,5 @@
+{
+  "is_produccion": false,
+  "base_url": "localhost:5000",
+  "base_url_dev": "158.35.26.1:4001"
+}
